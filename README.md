@@ -127,7 +127,7 @@ The main script will install any missing libraries automatically.
 1. **Clone** the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gapminder-analysis.git
+   git clone https://github.com/WilliamKwanProgramming/gapminder-analysis.git
    cd gapminder-analysis
    ```
 
