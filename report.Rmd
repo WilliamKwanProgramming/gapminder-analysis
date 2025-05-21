@@ -1,6 +1,6 @@
 ---
 title: "Gapminder Data Analysis"
-author: "David Nguyen"
+author: "William Kwan"
 date: "`r Sys.Date()`"
 output:
   html_document:
